@@ -1,0 +1,4 @@
+C:\Users\DELL\Desktop\Visual\Lab mid\obj\Debug\net8.0\Lab mid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Visual\Lab mid\obj\Debug\net8.0\Lab mid.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Visual\Lab mid\obj\Debug\net8.0\Lab mid.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Visual\Lab mid\obj\Debug\net8.0\Lab mid.csproj.CoreCompileInputs.cache
